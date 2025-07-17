@@ -2,10 +2,7 @@
   "packageRules": [
     {
       "matchManagers": "npm",
-      "groupName": "npm updates"
-    },
-    {
-      "matchPackageNames": ["nodemon"],
+      "groupName": "npm updates",
       "skipArtifactsUpdate": true   
     }
   ]

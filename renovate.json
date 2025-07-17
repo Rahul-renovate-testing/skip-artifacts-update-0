@@ -1,4 +1,8 @@
 {
-  "matchPackageNames": ["nodemon"],
-  "skipArtifactsUpdate": true
+  "packageRules": [
+    {
+      "matchPackageNames": ["nodemon"],
+  "skipArtifactsUpdate": true   
+    }
+  ]
 }

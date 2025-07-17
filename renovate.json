@@ -1,8 +1,1 @@
-{
-  "packageRules": [
-    {
-      "matchManagers": "npm",
-      "updateLockFiles": false
-    }
-  ]
-}
+{}

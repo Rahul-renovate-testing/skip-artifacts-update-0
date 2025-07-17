@@ -1,3 +1,8 @@
 {
-  "updateLockFiles": false
+  "packageRules": [
+    {
+      "matchManagers": "node",
+      "updateLockFiles": false
+    }
+  ]
 }

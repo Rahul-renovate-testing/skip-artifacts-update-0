@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchManagers": "npm",
-      "updateLockFiles": false
+      "skipArtifactsUpdate": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "chalk": "5.0.0",
-    "nodemon": "1.0.0"
+    "nodemon": "3.1.10"
   }
 }
